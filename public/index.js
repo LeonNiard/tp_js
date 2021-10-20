@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 const apiKey = '23947179-781b42b5dc6644377be0aa184'
 function getRandomInt(max) {
